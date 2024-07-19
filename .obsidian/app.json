@@ -1,0 +1,7 @@
+{
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets"
+}

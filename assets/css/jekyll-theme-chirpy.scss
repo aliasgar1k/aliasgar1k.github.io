@@ -1,0 +1,57 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+body {
+    background-color: #0b121f;
+    --text-color: #a4b1cd;
+    --heading-color: #fff;
+    --sidebar-active-color: #9fef00;
+    --sidebar-bg: #212529;
+    --card-bg: #212529;
+    --card-hovor-bg: #9fef00;
+    --site-title-color: #9fef00;
+    --topbar-bg: #0b121f;
+}
+
+/* Top nav bar colours */
+#search-results a, #search-hints .post-tag, a {
+	color: #a4b1cd;
+}
+#page-category a:hover, #page-tag a:hover, .post-tags .post-tag:hover, .post-tail-wrapper .license-wrapper > a:hover, #search-results a:hover, #topbar #breadcrumb a:hover, .content a:not(.img-link):hover, .post-meta a:not([class]):hover, #access-lastmod a:hover, footer a:hover {
+	color: #9fef00 !important;
+	border-bottom: 1px solid #9fef00;
+	text-decoration: none;
+}
+
+/* side bar tags colour */
+.btn:hover {
+	color: #0b121f;
+	background-color: #9fef00;
+	border-color: #0b121f;
+}
+
+
+/* footer colours */
+footer {
+	background-color: #0b121f;
+	height: 5rem;
+	border-top: 1px solid var(--main-border-color);
+}
+
+/* search bar clouor */ 
+search {
+	display: flex;
+	width: 100%;
+	border-radius: 1rem;
+	border: 1px solid var(--search-border-color);
+	background: #0b121f;
+	padding: 0 .5rem;
+}

@@ -1,0 +1,168 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Aliasgar1k</title>
+  <subtitle></subtitle>
+  <updated>2024-07-19T22:53:43+05:30</updated>
+  <author>
+    <name>aliasgar1k</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 aliasgar1k </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Responder</title>
+    <link href="http://localhost:4000/posts/Responder/" rel="alternate" type="text/html" title="Responder" />
+    <published>2023-06-14T00:00:00+05:30</published>
+  
+    <updated>2023-06-14T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Responder/</id>
+    <content src="http://localhost:4000/posts/Responder/" />
+    <author>
+      <name>aliasgar1k</name>
+    </author>
+
+  
+    
+    <category term="Practice" />
+    
+    <category term="Hackthebox - Windows" />
+    
+  
+
+  <summary>Responder is a free machine on Hack The Box‘s Starting point Tier 1. It gives us a walkthrough of an NTLM hash capturing when the machine tries to authenticate to a fake malicious SMB server which we will be setting up (in this case). Overall it is a very knowledgeable room and will teach you many things about LFI(local file inclusion) also.
+
+Enumeration
+
+Nmap
+
+┌──(kali㉿kali)-[~/HTB/Starting Po...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Oopsie</title>
+    <link href="http://localhost:4000/posts/Oopsie/" rel="alternate" type="text/html" title="Oopsie" />
+    <published>2023-06-14T00:00:00+05:30</published>
+  
+    <updated>2023-06-14T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Oopsie/</id>
+    <content src="http://localhost:4000/posts/Oopsie/" />
+    <author>
+      <name>aliasgar1k</name>
+    </author>
+
+  
+    
+    <category term="Practice" />
+    
+    <category term="Hackthebox - Linux" />
+    
+  
+
+  <summary>Oopsie is a Linux machine from HTB, it was fun and informative as for initial foothold attacker need to perform cookie manipulation and upload a file to get a rev shell. next perform basic password hunting on target and switch user with found credentials. lastly enumerate for a SUID binary and exploit it using environment PATH variable.
+
+Enumeration
+
+Nmap
+
+┌──(root💀kali)-[~/Documents/Oopsie] 
+└...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Appointment</title>
+    <link href="http://localhost:4000/posts/Appointment/" rel="alternate" type="text/html" title="Appointment" />
+    <published>2023-06-14T00:00:00+05:30</published>
+  
+    <updated>2023-06-14T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Appointment/</id>
+    <content src="http://localhost:4000/posts/Appointment/" />
+    <author>
+      <name>aliasgar1k</name>
+    </author>
+
+  
+    
+    <category term="Practice" />
+    
+    <category term="Hackthebox - Linux" />
+    
+  
+
+  <summary>This box is from starting point tier 1 from HTB and will help us to practice performing an SQL injection against an SQL database enabled web application. SQL Injection is a common way of exploiting web pages that use SQL Statements to retrieve and store user input data.
+
+NOTE: this writeup is not for solving task answers foe this machine but is written to simple explain SQL injection in context...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Whonix with Kali Linux</title>
+    <link href="http://localhost:4000/posts/Whonix-with-Kali-Linux/" rel="alternate" type="text/html" title="Whonix with Kali Linux" />
+    <published>2023-06-12T00:00:00+05:30</published>
+  
+    <updated>2023-06-12T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/Whonix-with-Kali-Linux/</id>
+    <content src="http://localhost:4000/posts/Whonix-with-Kali-Linux/" />
+    <author>
+      <name>aliasgar1k</name>
+    </author>
+
+  
+    
+    <category term="Lab Setups" />
+    
+  
+
+  <summary>Whonix ™ – Overview:
+
+Whonix ™ is an anonymous operating system that runs like an app and routes all Internet traffic through the Tor anonymity network. It offers privacy protection and anonymity online and is available for all major operating systems. Whonix ™ is a free and open-source desktop operating system (OS) that is specifically designed for advanced security and privacy. Based on the T...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>WPS Pixie Dust Attack</title>
+    <link href="http://localhost:4000/posts/WPS-Pixie-Dust-Attack/" rel="alternate" type="text/html" title="WPS Pixie Dust Attack" />
+    <published>2023-06-12T00:00:00+05:30</published>
+  
+    <updated>2023-06-12T00:00:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/WPS-Pixie-Dust-Attack/</id>
+    <content src="http://localhost:4000/posts/WPS-Pixie-Dust-Attack/" />
+    <author>
+      <name>aliasgar1k</name>
+    </author>
+
+  
+    
+    <category term="Wireless Pentesting" />
+    
+  
+
+  <summary>What is WPS?
+
+Wifi Protected Setup (WPS) is an optional certification program from the Wi-Fi Alliance that is designed to ease the task of setting up and configuring security on wireless local area networks. Wi-Fi Protected Setup enables typical users who possess little understanding of traditional Wi-Fi configuration and security settings to automatically configure new wireless networks, add n...</summary>
+
+  </entry>
+
+</feed>
+
+
