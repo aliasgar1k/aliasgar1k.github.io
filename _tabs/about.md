@@ -1,3 +1,9 @@
+---
+layout: archives
+icon: fas fa-archive
+order: 3
+---
+
 # whoami
 
 I am Aliasgar I. Kachwala and thus insort aliasgar1k. Cybersecurity enthusiast with a strong interest in Security analysis and Penetration testing. Recently completed with my OSCP. CTF player at Hackthebox, Tryhackme, Vulnhub and picoCTF. Also Loves gamming.
