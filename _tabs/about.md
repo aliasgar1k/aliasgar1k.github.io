@@ -1,7 +1,7 @@
 ---
-layout: about
-icon: fas fa-about
-order: 3
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 # whoami
