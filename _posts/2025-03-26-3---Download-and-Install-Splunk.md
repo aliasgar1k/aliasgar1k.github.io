@@ -23,7 +23,7 @@ Before proceeding with the download and installation of Splunk, it is essential 
 
 ## Downloading Splunk Enterprise
 
--  Download the Splunk installer from the Splunk [download page](http://splunk.com/download). 
+-  Download the Splunk installer from the Splunk [download page](https://www.splunk.com/en_us/download.html). 
 
 ![](2025-03-26-3---Download-and-Install-Splunk-1.png)
 
