@@ -26,7 +26,7 @@ Now, let’s break down how we’re going to go through our Splunk SIEM implemen
 - **Client Machines:** One Windows machine and one Linux machine that will send their logs to our Splunk instance.
 
 ![](2025-03-26-0---Splunk-SIEM-Implementation-Introduction-2.png)
-![](3.png)
+![](2025-03-26-0---Splunk-SIEM-Implementation-Introduction-3.png)
 
 - **Kali Linux Attacker Machine:** This machine will simulate various attacks, like SSH and RDP brute force, against the client machines to test their defenses.
 
