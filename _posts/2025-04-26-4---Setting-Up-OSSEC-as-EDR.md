@@ -1,5 +1,5 @@
 ---
-title: 2025-04-26-4---Setting-Up-OSSEC-as-EDR
+title: 4 - Setting Up OSSEC as EDR
 date: 2025-03-26 00:00:00 +/-TTTT
 categories:
   - Splunk SIEM Implementation Upgrade 1
@@ -8,20 +8,6 @@ tags:
 image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/2025-04-26-4---Setting-Up-OSSEC-as-EDR/
 ---
-
-
----
-title: Setting Up OSSEC as EDR
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/Setting Up OSSEC as EDR/
----
-
-
 
 https://www.youtube.com/watch?v=A4RrDpcvKf8
 https://www.youtube.com/watch?v=7c8xowHz0Ko&t=516s

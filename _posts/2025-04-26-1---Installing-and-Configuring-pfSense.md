@@ -1,5 +1,5 @@
 ---
-title: 2025-04-26-1---Installing-and-Configuring-pfSense
+title: 1 - Installing and Configuring pfSense
 date: 2025-03-26 00:00:00 +/-TTTT
 categories:
   - Splunk SIEM Implementation Upgrade 1
@@ -8,32 +8,6 @@ tags:
 image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/2025-04-26-1---Installing-and-Configuring-pfSense/
 ---
-
-
----
-title: Installing and Configuring pfSense
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/Installing and Configuring pfSense/
----
-
-
----
-title: 1 - Installing and Configuring pfSense Final
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/1 - Installing and Configuring pfSense Final/
----
-
-
 
 In this guide, you'll learn how to download, install, and configure pfSense in a virtualized environment. We'll cover each step in detail, making it ideal for beginners and lab builders. You’ll also find prompts to watch for during setup, and room to insert helpful screenshots.
 

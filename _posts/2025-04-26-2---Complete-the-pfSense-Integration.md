@@ -1,5 +1,5 @@
 ---
-title: 2025-04-26-2---Complete-the-pfSense-Integration
+title: 2 - Complete the pfSense Integration
 date: 2025-03-26 00:00:00 +/-TTTT
 categories:
   - Splunk SIEM Implementation Upgrade 1
@@ -8,20 +8,6 @@ tags:
 image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/2025-04-26-2---Complete-the-pfSense-Integration/
 ---
-
-
----
-title: Complete the pfSense Integration
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/Complete the pfSense Integration/
----
-
-
 
 In the previous guide, we covered the essentials of **Installing and Configuring pfSense**. Now that the firewall is up and running, it’s time to take the next step which focuses on integrating pfSense with **Splunk** for centralized logging, enabling access to internal services like SSH and RDP from outside the network, and simulating remote attacker behavior using Kali Linux.
 

@@ -1,5 +1,5 @@
 ---
-title: 2025-04-26-3---Installing-and-Configuring-Suricata
+title: 3 - Installing and Configuring Suricata
 date: 2025-03-26 00:00:00 +/-TTTT
 categories:
   - Splunk SIEM Implementation Upgrade 1
@@ -8,19 +8,6 @@ tags:
 image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/2025-04-26-3---Installing-and-Configuring-Suricata/
 ---
-
-
----
-title: Installing and Configuring Suricata
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/Installing and Configuring Suricata/
----
-
 
 Once the pfSense is set as firewall/router in the network, next we’ll walk through the process of building a **transparent IDS sensor** using **Suricata** on **Ubuntu Linux**. Suricata will monitor network traffic by acting as a bridge between your firewall (pfSense) and our internal Machines. This approach allows us to inspect all traffic without introducing latency or requiring readdressing — perfect for a stealthy intrusion detection setup. 
 

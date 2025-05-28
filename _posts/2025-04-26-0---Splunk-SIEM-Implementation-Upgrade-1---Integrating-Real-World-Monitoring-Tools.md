@@ -1,5 +1,5 @@
 ---
-title: 2025-04-26-0---Splunk-SIEM-Implementation-Upgrade-1---Integrating-Real-World-Monitoring-Tools
+title: 0 - Splunk SIEM Implementation Upgrade 1 - Integrating Real-World Monitoring Tools
 date: 2025-03-26 00:00:00 +/-TTTT
 categories:
   - Splunk SIEM Implementation Upgrade 1
@@ -8,32 +8,6 @@ tags:
 image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/2025-04-26-0---Splunk-SIEM-Implementation-Upgrade-1---Integrating-Real-World-Monitoring-Tools/
 ---
-
-
----
-title: Enhancing SIEM Environment - Integrating Real-World Monitoring Tools
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/Enhancing SIEM Environment - Integrating Real-World Monitoring Tools/
----
-
-
----
-title: 0 - Enhancing SIEM Environment - Integrating Real-World Monitoring Tools
-date: 2025-03-26 00:00:00 +/-TTTT
-categories:
-  - Splunk SIEM Implementation Upgrade 1
-tags:
-  - splunk-siem-implementation-Upgrade-1
-image: ../preview-image.png
-media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/0 - Enhancing SIEM Environment - Integrating Real-World Monitoring Tools/
----
-
-
 
 After successfully configuring Splunk as our core SIEM solution, it's time to elevate our security monitoring capabilities by simulating a more production-like environment. In this upgrade, we’ll be integrating critical components that are commonly found in real-world security architectures: a firewall/router, an intrusion detection system (IDS), and an endpoint detection and response (EDR) solution. These additions will significantly increase our visibility across the network and endpoints, providing a richer dataset for analysis and threat detection within Splunk.
 
