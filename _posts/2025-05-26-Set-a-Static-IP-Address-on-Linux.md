@@ -92,6 +92,7 @@ Here’s a quick reference table to help you choose the correct method based on 
 |🔢 **Method 3: systemd-networkd**|`systemctl is-active systemd-networkd` → `active`<br>             OR <br>`renderer: networkd`|
 |🔢 **Method 4: ifupdown**|`systemctl is-active networking` → `active`<br>             OR <br>`/etc/network/interfaces` exists|
 |🔢 **Method 5: dhcpcd**|`systemctl is-active dhcpcd` → `active`<br>             OR <br>`/etc/dhcpcd.conf` exists|
+
 If this still confuses you, you can simply use my script to detect so:
 
 ```bash
