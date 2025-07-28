@@ -655,7 +655,7 @@ Know that you have the knowledge needed to attack Kerberos I encourage you to co
 * [https://beta.hackndo.com/kerberos/](https://beta.hackndo.com/kerberos/)
 * [https://www.youtube.com/watch?v=lJQn06QLwEw](https://www.youtube.com/watch?v=lJQn06QLwEw)
 * [https://github.com/ropnop/kerbrute/releases](https://github.com/ropnop/kerbrute/releases)
-* [http://www.harmj0y.net/blog/](http://www.harmj0y.net/blog/)
+* [https://www.harmj0y.net/blog/](https://www.harmj0y.net/blog/)
 * [https://github.com/GhostPack/Rubeus](https://github.com/GhostPack/Rubeus)
 * [https://medium.com/@t0pazg3m/pass-the-ticket-ptt-attack-in-mimikatz-and-a-gotcha-96a5805e257a](https://medium.com/@t0pazg3m/pass-the-ticket-ptt-attack-in-mimikatz-and-a-gotcha-96a5805e257a)
 * [https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat](https://ired.team/offensive-security-experiments/active-directory-kerberos-abuse/as-rep-roasting-using-rubeus-and-hashcat)
