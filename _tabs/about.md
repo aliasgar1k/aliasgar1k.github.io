@@ -4,15 +4,21 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**whoami**
+**Who Am I?**
 
-I am Aliasgar I. Kachwala and thus insort aliasgar1k. Cybersecurity enthusiast with a strong interest in Security analysis and Penetration testing. Recently completed with my OSCP. CTF player at Hackthebox, Tryhackme, Vulnhub and picoCTF. Also Loves gamming.
+Hi, I’m Aliasgar I. Kachwala, and I’m passionate about Cybersecurity, particularly Penetration Testing and Security Analysis. I’ve been learning and growing my skills through hands-on platforms like HackTheBox, TryHackMe, and picoCTF, where I dive into CTF challenges, explore vulnerabilities, and figure out how to fix them. Every new challenge helps me sharpen my skills and discover new techniques that I apply in real-world scenarios.
 
-This blog is made by me inorder to share my knownledge and experience about my journey in cyber security.
-it would include content like CTF writeups, cheatsheets, etc.
+This blog is a way for me to share my journey as I go. I document what I’m learning, including writeups, cheat sheets, and tools I find useful. I believe that learning by doing is key, and I hope to pass along some of that knowledge to anyone interested in diving into cybersecurity.
 
-[TryHackMe](https://tryhackme.com/p/aliasgar1k)
+My Certifications:
 
-[GitHub](https://github.com/aliasgar1k)
+| Offensive Security Certified Professional (OSCP) | Practical Ethical Hacking (PEH) | Google IT Support | Tryhackme SOC L1 |
+|-----------|-----------|-----------|-----------|
+| ![oscp](assets/about/oscp.png) | ![peh](assets/about/practical-ethical-hacking.jpeg) | ![gits](assets/about/google-it-support.png) | ![thmsocl1](assets/about/tryhackme-SOC-L1.jpeg) |
 
-[LinkedIn](https://www.linkedin.com/in/aliasgar1k)
+Feel free to reach out if you want to talk cybersecurity, share tips, or just connect with someone who’s in the same learning phase.
+
+- [![HackTheBox](assets/about/hackthebox.png)HackTheBox](https://www.hackthebox.eu)
+- [![TryHackMe](assets/about/tryhackme.png)TryHackMe](https://tryhackme.com)
+- [![GitHub](assets/about/github.png)Github](https://www.github.com) 
+- [![Linkedin](assets/about/linkedin.png)LinkedIn](https://www.linkedin.com) 
