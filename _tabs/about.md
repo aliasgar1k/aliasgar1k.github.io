@@ -12,13 +12,13 @@ This blog is a way for me to share my journey as I go. I document what I’m lea
 
 My Certifications:
 
-| OSCP | Practical Ethical Hacking | Google IT Support | Tryhackme SOC L1 |
+| OSCP Certified  | Practical Ethical Hacking | Google IT Support | Tryhackme SOC L1 |
 |-----------|-----------|-----------|-----------|
 | ![oscp](assets/img/about/oscp.png) | ![peh](assets/img/about/practical-ethical-hacking.jpeg) | ![gits](assets/img/about/google-it-support.png) | ![thmsocl1](assets/img/about/tryhackme-SOC-L1.jpeg) |
 
 Feel free to reach out if you want to talk cybersecurity, share tips, or just connect with someone who’s in the same learning phase.
 
-- [![HackTheBox](assets/img/about/hackthebox.png)HackTheBox](https://www.hackthebox.eu)
+- ![HackTheBox](assets/img/about/hackthebox.png) [HackTheBox](https://www.hackthebox.eu)
 - [![TryHackMe](assets/img/about/tryhackme.png)TryHackMe](https://tryhackme.com)
 - [![GitHub](assets/img/about/github.png)Github](https://www.github.com) 
 - [![Linkedin](assets/img/about/linkedin.png)LinkedIn](https://www.linkedin.com) 
