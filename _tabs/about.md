@@ -14,7 +14,7 @@ My Certifications:
 
 | OSCP | PEH | Google IT Support | Tryhackme SOC L1 |
 |-----------|-----------|-----------|-----------|
-| ![oscp](assets/img/about/oscp.png) | ![peh](assets/img/about/practical-ethical-hacking.jpeg) | ![gits](assets/img/about/google-it-support.png) | ![thmsocl1](assets/img/about/tryhackme-SOC-L1.jpeg) |
+| ![oscp](assets/img/about/oscp.png){: w="700" h="400" } | ![peh](assets/img/about/practical-ethical-hacking.jpeg){: w="700" h="400" } | ![gits](assets/img/about/google-it-support.png){: w="700" h="400" } | ![thmsocl1](assets/img/about/tryhackme-SOC-L1.jpeg){: w="700" h="400" } |
 
 Feel free to reach out if you want to talk cybersecurity, share tips, or just connect with someone who’s in the same learning phase.
 
