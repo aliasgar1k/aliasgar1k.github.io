@@ -14,11 +14,11 @@ My Certifications:
 
 | Offensive Security Certified Professional (OSCP) | Practical Ethical Hacking (PEH) | Google IT Support | Tryhackme SOC L1 |
 |-----------|-----------|-----------|-----------|
-| ![oscp](assets/about/oscp.png) | ![peh](assets/about/practical-ethical-hacking.jpeg) | ![gits](assets/about/google-it-support.png) | ![thmsocl1](assets/about/tryhackme-SOC-L1.jpeg) |
+| ![oscp](assets/img/about/oscp.png) | ![peh](assets/img/about/practical-ethical-hacking.jpeg) | ![gits](assets/img/about/google-it-support.png) | ![thmsocl1](assets/img/about/tryhackme-SOC-L1.jpeg) |
 
 Feel free to reach out if you want to talk cybersecurity, share tips, or just connect with someone who’s in the same learning phase.
 
-- [![HackTheBox](assets/about/hackthebox.png)HackTheBox](https://www.hackthebox.eu)
-- [![TryHackMe](assets/about/tryhackme.png)TryHackMe](https://tryhackme.com)
-- [![GitHub](assets/about/github.png)Github](https://www.github.com) 
-- [![Linkedin](assets/about/linkedin.png)LinkedIn](https://www.linkedin.com) 
+- [![HackTheBox](assets/img/about/hackthebox.png)HackTheBox](https://www.hackthebox.eu)
+- [![TryHackMe](assets/img/about/tryhackme.png)TryHackMe](https://tryhackme.com)
+- [![GitHub](assets/img/about/github.png)Github](https://www.github.com) 
+- [![Linkedin](assets/img/about/linkedin.png)LinkedIn](https://www.linkedin.com) 
