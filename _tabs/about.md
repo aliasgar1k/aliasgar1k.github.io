@@ -10,11 +10,13 @@ Hi, I’m Aliasgar I. Kachwala, and I’m passionate about Cybersecurity, partic
 
 This blog is a way for me to share my journey as I go. I document what I’m learning, including writeups, cheat sheets, and tools I find useful. I believe that learning by doing is key, and I hope to pass along some of that knowledge to anyone interested in diving into cybersecurity.
 
-My Certifications:
+**My Certifications**
 
 | OSCP Certified  | Practical Ethical Hacking | Google IT Support | Tryhackme SOC L1 |
 |-----------|-----------|-----------|-----------|
 | ![oscp](assets/img/about/oscp.png) | ![peh](assets/img/about/practical-ethical-hacking.jpeg) | ![gits](assets/img/about/google-it-support.png) | ![thmsocl1](assets/img/about/tryhackme-SOC-L1.png) |
+
+**Let's Connect**
 
 Feel free to reach out if you want to talk cybersecurity, share tips, or just connect with someone who’s in the same learning phase.
 
