@@ -18,7 +18,7 @@ My Certifications:
 
 Feel free to reach out if you want to talk cybersecurity, share tips, or just connect with someone who’s in the same learning phase.
 
-- ![HackTheBox](assets/img/about/hackthebox.png) [HackTheBox](https://www.hackthebox.eu)
-- [![TryHackMe](assets/img/about/tryhackme.png)TryHackMe](https://tryhackme.com)
-- [![GitHub](assets/img/about/github.png)Github](https://www.github.com) 
-- [![Linkedin](assets/img/about/linkedin.png)LinkedIn](https://www.linkedin.com) 
+![HackTheBox](assets/img/about/hackthebox.png) [HackTheBox](https://www.hackthebox.eu)
+![TryHackMe](assets/img/about/tryhackme.png) [TryHackMe](https://tryhackme.com)
+![GitHub](assets/img/about/github.png) [Github](https://www.github.com) 
+![Linkedin](assets/img/about/linkedin.png) [LinkedIn](https://www.linkedin.com) 
