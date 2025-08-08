@@ -12,7 +12,7 @@ This blog is a way for me to share my journey as I go. I document what I’m lea
 
 My Certifications:
 
-| Offensive Security Certified Professional (OSCP) | Practical Ethical Hacking (PEH) | Google IT Support | Tryhackme SOC L1 |
+| OSCP | PEH | Google IT Support | Tryhackme SOC L1 |
 |-----------|-----------|-----------|-----------|
 | ![oscp](assets/img/about/oscp.png) | ![peh](assets/img/about/practical-ethical-hacking.jpeg) | ![gits](assets/img/about/google-it-support.png) | ![thmsocl1](assets/img/about/tryhackme-SOC-L1.jpeg) |
 
