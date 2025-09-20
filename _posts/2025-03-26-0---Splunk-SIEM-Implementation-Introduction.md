@@ -9,11 +9,23 @@ image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation/2025-03-26-0---Splunk-SIEM-Implementation-Introduction/
 ---
 
+## Demo Video
+
+{%
+  include embed/video.html
+  src='video 1.mp4'
+  title='Demo video'
+  autoplay=true
+  loop=true
+  muted=true
+%}
+
+
 Today I’m very excited to guide you through my latest project, which focuses on going through our Security Information and Event Management implementation using Splunk. If you’re eager to build your skills in cybersecurity and learn how to implement a SIEM system, you’re in the right place.
 
 Perhaps you're starting your journey toward becoming a SOC analyst but feel a bit lost regarding where to begin with practical implementation. Don’t worry! In the next few videos, I’ll walk you through the process step-by-step to help you gain valuable experience - all for free! The goal is to equip you with the knowledge necessary to monitor and analyze security logs effectively.
 
-I’ve studied extensively in security operations, which has inspired me to create this project. The aim is to fill the gap where many entry-level SOCK professionals miss out on practical implementation skills.
+I’ve studied extensively in security operations, which has inspired me to create this project. The aim is to fill the gap where many entry-level SOC professionals miss out on practical implementation skills.
 
 By the end of this series, you will have a comprehensive understanding of how to effectively set up and manage a Splunk SIEM in your home lab. This project will not only enhance your skill set but also prepare you for real-world security challenges. The skills you’ll learn will be invaluable in enhancing your career as you’ll walk away with practical abilities that you can showcase on your resume and confidently discuss in interviews.
 

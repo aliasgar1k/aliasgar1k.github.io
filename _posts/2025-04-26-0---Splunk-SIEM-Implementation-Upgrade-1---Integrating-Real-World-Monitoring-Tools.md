@@ -9,6 +9,18 @@ image: ../preview-image.png
 media_subpath: /assets/img/Splunk-SIEM-Implementation-Upgrade-1/2025-04-26-0---Integrating-Real-World-Monitoring-Tools/
 ---
 
+## Demo Video
+
+{%
+  include embed/video.html
+  src='video 2.mp4'
+  title='Demo video'
+  autoplay=true
+  loop=true
+  muted=true
+%}
+
+
 After successfully configuring **Splunk** as our core SIEM solution, it’s time to take our security monitoring to the next level. By simulating a more production-like environment, we’ll integrate essential components found in real-world security architectures: a **firewall/router**, an **intrusion detection system (IDS)**, and an **endpoint detection and response (EDR)** solution. These critical tools will greatly enhance our visibility across both network traffic and endpoints, providing a more comprehensive dataset for analysis and threat detection within **Splunk**.
 
 ## Why Upgrade?
